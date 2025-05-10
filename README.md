@@ -27,3 +27,16 @@ To compare the effectiveness of granular and subtractive synthesis methods in cr
 
 ## 🗂 Folder Structure
 
+granular-vs-subtractive-synthesis/
+├── code/
+│   ├── subtractive_patch.pd
+│   └── granular_synth.py
+├── sounds/
+│   ├── granular_output.wav
+│   └── subtractive_output.wav
+├── analysis/
+│   ├── granular_spectrogram.png
+│   └── subtractive_waveform.png
+├── survey_results/
+│   └── feedback_summary.xlsx
+└── README.md
