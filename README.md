@@ -27,6 +27,7 @@ To compare the effectiveness of granular and subtractive synthesis methods in cr
 
 ## 🗂 Folder Structure
 
+```
 granular-vs-subtractive-synthesis/
 ├── code/
 │   ├── subtractive_patch.pd
@@ -40,3 +41,4 @@ granular-vs-subtractive-synthesis/
 ├── survey_results/
 │   └── feedback_summary.xlsx
 └── README.md
+```
