@@ -49,7 +49,6 @@ granular-vs-subtractive-synthesis/
 - Waveform and spectrograms generated via `analysis.ipynb` show distinct characteristics of each method.
 - Granular synthesis provided more texture and randomness, which was ideal for ambient and dreamy feel.
 - Subtractive synthesis gave a cleaner and smoother tone but with less variability.
-- [Optional] A small listening survey was conducted, and most participants found the **granular output more emotionally expressive**.
 
 ---
 
