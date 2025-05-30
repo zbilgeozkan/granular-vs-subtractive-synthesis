@@ -59,10 +59,9 @@ granular-vs-subtractive-synthesis/
    pip install numpy scipy sounddevice matplotlib
 
 2. To generate outputs:
-  ```
-  python granular_synthesis.py
-  python subtractive_synthesis.py
-  ```
+   ```bash
+   python granular_synthesis.py
+   python subtractive_synthesis.py
 
 3. To view waveform and spectrogram analysis:
   Open `analysis.ipynb` in Jupyter Notebook.
