@@ -29,6 +29,7 @@ To compare the effectiveness of granular and subtractive synthesis methods in cr
 
 ## 📁 File Structure
 
+```
 granular-vs-subtractive-synthesis/
 ├── granular_synthesis.py # Python script for granular synthesis
 ├── subtractive_synthesis.py # Python script for subtractive synthesis
@@ -39,7 +40,7 @@ granular-vs-subtractive-synthesis/
 ├── retrogame.wav # Additional test sample
 ├── analysis.ipynb # Jupyter notebook with analysis and plots
 ├── README.md # Project overview (this file)
-
+```
 
 ---
 
